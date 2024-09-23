@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://mixuge.github.io/sitemap/sitemap.txt
